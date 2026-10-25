@@ -1,24 +1,4 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-
-# Virtual environments
-.venv/
-venv/
-ENV/
-
-# Environment variables
+node_modules/
 .env
-
-# IDE files
-.vscode/
-.idea/
-
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
-
-# OS files
 .DS_Store
-Thumbs.db
+npm-debug.log*
